@@ -1,9 +1,9 @@
 {
-  "name": "focus-up",
+  "name": "focused-up",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://JefferGAL.github.io/focus-up",
+  "homepage": "https://JefferGAL.github.io/focused-up",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
