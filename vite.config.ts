@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/focused-up/', // REQUIRED: Tells the app it lives at https://jeffergal.github.io/focused-up/
   build: {
-    outDir: 'docs', // Output the built site to 'docs' folder so GitHub can read it
+    outDir: 'dist', // Output the built site used to be 'docs' folder so GitHub can read it
   }
 })
